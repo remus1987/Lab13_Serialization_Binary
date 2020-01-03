@@ -1,0 +1,14 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab13_Serialization_Binary.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab13_Serialization_Binary.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab13_Serialization_Binary.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab13_Serialization_Binary.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab13_Serialization_Binary.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab13_Serialization_Binary.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab11_Serialization.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab11_Serialization.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab13_Serialization_Binary.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab13_Serialization_Binary.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab13_Serialization_Binary.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab13_Serialization_Binary.csproj.CopyComplete
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab13_Serialization_Binary.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab13_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab13_Serialization_Binary.pdb
